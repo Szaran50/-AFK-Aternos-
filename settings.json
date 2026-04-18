@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kononodor1.aternos.me",
-    "port": 54345,
+    "ip": "Kajzerka_smp.aternos.me",
+    "port": 39130,
     "version": "1.21.11",
     "try-creative": false
   },
